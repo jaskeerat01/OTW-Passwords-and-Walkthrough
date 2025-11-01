@@ -114,5 +114,8 @@ This shows file type information to verify it's human-readable.
 ```bash
 exit
 ```
-
+Key:
+```
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+```
 Now use the password you found to connect to Level 6!
